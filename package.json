@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-import",
+  "version": "0.0.1",
+  "description": "dynamic import proposal polyfill for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantareijs/dynamic-import.git"
+  },
+  "keywords": [
+    "dynamic",
+    "import",
+    "module"
+  ],
+  "author": "Enrico Marino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pantareijs/dynamic-import/issues"
+  },
+  "homepage": "https://github.com/pantareijs/dynamic-import#readme"
+}
