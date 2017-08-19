@@ -1,5 +1,5 @@
 # dynamic-import
 
 ```js
-module = import(url)
+module = await import(url)
 ```
