@@ -1,4 +1,4 @@
-function dynamic_import (url) {
+export default function (url) {
   return new Promise((resolve, reject) => {
     const script = document.createElement('script')
     const temp = '__temp_' + Math.random().toString(32).substring(2)
@@ -24,5 +24,3 @@ function dynamic_import (url) {
     document.documentElement.appendChild(script)
   })
 }
-
-module.exports = dynamic_import
