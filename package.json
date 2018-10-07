@@ -1,14 +1,14 @@
 {
-  "name": "dynamic-import",
+  "name": "await-import",
   "version": "0.0.1",
-  "description": "dynamic import proposal polyfill for the browser",
+  "description": "dynamic import polyfill for the browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pantareijs/dynamic-import.git"
+    "url": "git+https://github.com/awaitjs/await-import.git"
   },
   "keywords": [
     "dynamic",
@@ -18,7 +18,7 @@
   "author": "Enrico Marino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pantareijs/dynamic-import/issues"
+    "url": "https://github.com/awaitjs/await-import/issues"
   },
-  "homepage": "https://github.com/pantareijs/dynamic-import#readme"
+  "homepage": "https://github.com/awaitjs/await-import#readme"
 }
